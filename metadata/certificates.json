@@ -1,0 +1,160 @@
+{
+  "certificates": [
+    {
+      "id": "redhat-sysadmin-2026",
+      "title": "Red Hat System Administration I",
+      "issuer": "Red Hat",
+      "category": "professional",
+      "date": "2026-02-03",
+      "creditHours": 40,
+      "course": "RH124 - Red Hat System Administration I Ver. 9.3",
+      "verificationUrl": "https://www.credly.com/badges/2633b3c9-af0a-4a6f-8d7f-c65f60d5c045",
+      "filepath": "./certificates/professional/2026-02-redhat-system-admin-i.pdf",
+      "skills": ["Linux", "System Administration", "RHEL", "DevOps", "Command Line"],
+      "description": "Comprehensive training in Red Hat Enterprise Linux 9.3 system administration"
+    },
+    {
+      "id": "ericsson-5g-2024",
+      "title": "Ericsson 5G Pioneers Program",
+      "issuer": "Ericsson Educate Malaysia",
+      "category": "professional",
+      "date": "2024-09",
+      "filepath": "./certificates/professional/2024-09-ericsson-5g-pioneers.png",
+      "badgeFilepath": "./badges/ericsson-5g-pioneers.png",
+      "skills": ["5G Technology", "Telecommunications", "Network Architecture"],
+      "description": "Training program on 5G technology fundamentals and telecommunications"
+    },
+    {
+      "id": "aisg-ai-for-good-2025",
+      "title": "AI For Good Workshop",
+      "issuer": "AI Singapore",
+      "category": "workshops",
+      "date": "2025-01-10",
+      "sponsor": "Meta",
+      "filepath": "./certificates/workshops/2025-01-aisg-ai-for-good.pdf",
+      "skills": ["AI Ethics", "AI Applications", "Social Impact", "Responsible AI"],
+      "description": "Workshop on AI applications for social good and responsible AI development"
+    },
+    {
+      "id": "apu-vice-chancellor-2024",
+      "title": "Vice Chancellor's List",
+      "issuer": "Asia Pacific University (APU)",
+      "category": "academic",
+      "date": "2024",
+      "academicYear": "2024/2025",
+      "filepath": "./certificates/academic/2024-apu-vice-chancellor-list.pdf",
+      "achievement": "Excellent Academic Achievement",
+      "description": "Recognition for outstanding academic performance"
+    },
+    {
+      "id": "apu-sara-commendation-2025",
+      "title": "AP SARA Project Commendation",
+      "issuer": "Asia Pacific University (APU)",
+      "category": "academic",
+      "date": "2025-11-11",
+      "project": "AP SARA - Student Assistance App",
+      "role": "AI Development Team Member",
+      "filepath": "./certificates/academic/2025-11-apu-sara-commendation.pdf",
+      "facultyReference": {
+        "name": "Prof. Ir. Eur. Ing. Ts. Dr. Vinesh Thiruchelvam",
+        "email": "dr.vinesh@apu.edu.my"
+      },
+      "skills": ["Mobile Development", "AI Integration", "Team Collaboration", "Project Management"],
+      "description": "Commendation letter for contributions to AP SARA student assistance application"
+    },
+    {
+      "id": "waterloo-ccc-2024",
+      "title": "Canadian Computing Competition - Junior Division",
+      "issuer": "University of Waterloo - Centre for Education in Mathematics and Computing",
+      "category": "competitions",
+      "date": "2024-02",
+      "achievement": "Certificate of Distinction (Top 25%)",
+      "filepath": "./certificates/competitions/2024-02-waterloo-ccc-junior.pdf",
+      "skills": ["Algorithms", "Problem Solving", "Competitive Programming", "Data Structures"],
+      "description": "Top 25% distinction in the Canadian Computing Competition Junior Division"
+    },
+    {
+      "id": "apu-xai-workshop-2025",
+      "title": "XAI (Explainable AI) Workshop",
+      "issuer": "APU AI Club (APUAIC)",
+      "category": "workshops",
+      "date": "2025-04-11",
+      "filepath": "./certificates/workshops/2025-04-apu-xai-workshop.pdf",
+      "skills": ["Explainable AI", "AI Transparency", "Model Interpretability"],
+      "description": "Participation in workshop on explainable AI and model transparency"
+    },
+    {
+      "id": "apu-startup-mnc-2026",
+      "title": "Enterprise Speaker Series: Startup vs MNC",
+      "issuer": "enterprise@APU",
+      "category": "workshops",
+      "date": "2026-01-27",
+      "topic": "From Corporate to Startup",
+      "filepath": "./certificates/workshops/2026-01-apu-startup-vs-mnc.pdf",
+      "skills": ["Career Development", "Entrepreneurship", "Corporate Culture"],
+      "description": "Attendance at speaker series event discussing career paths in startups vs corporations"
+    },
+    {
+      "id": "geco-hack-team-2025",
+      "title": "Break into AI: Hack to Hire - Team Award",
+      "issuer": "GECO Asia / Upskill Today",
+      "category": "hackathons",
+      "date": "2025-12-12",
+      "eventPeriod": "November 27 - December 12, 2025",
+      "teamName": "LET IT FLY",
+      "achievement": "Most Innovative Team",
+      "filepath": "./certificates/hackathons/2025-12-geco-break-into-ai-team.pdf",
+      "skills": ["Innovation", "AI Development", "Team Leadership", "Hackathon", "Problem Solving"],
+      "description": "Most Innovative Team award at Break into AI hackathon"
+    },
+    {
+      "id": "geco-hack-individual-2025",
+      "title": "Break into AI: Hack to Hire - Individual Completion",
+      "issuer": "GECO Asia / Upskill Today",
+      "category": "hackathons",
+      "date": "2025-12-12",
+      "eventPeriod": "November 27 - December 12, 2025",
+      "achievement": "Certificate of Completion",
+      "filepath": "./certificates/hackathons/2025-12-geco-break-into-ai-individual.pdf",
+      "skills": ["AI Development", "Hackathon", "Problem Solving"],
+      "description": "Individual completion certificate for Break into AI hackathon"
+    }
+  ],
+  "summary": {
+    "totalCertificates": 10,
+    "byCategory": {
+      "professional": 2,
+      "academic": 2,
+      "competitions": 1,
+      "workshops": 3,
+      "hackathons": 2
+    },
+    "latestUpdate": "2026-02-04",
+    "latestCertificate": {
+      "title": "Red Hat System Administration I",
+      "date": "2026-02-03"
+    }
+  },
+  "skills": {
+    "technical": [
+      "Linux",
+      "System Administration",
+      "RHEL",
+      "AI Development",
+      "AI Ethics",
+      "5G Technology",
+      "Algorithms",
+      "Data Structures",
+      "Mobile Development",
+      "Explainable AI"
+    ],
+    "soft": [
+      "Project Management",
+      "Team Leadership",
+      "Team Collaboration",
+      "Problem Solving",
+      "Innovation",
+      "Career Development"
+    ]
+  }
+}
