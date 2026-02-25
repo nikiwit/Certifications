@@ -4,13 +4,13 @@
 
 ## Quick Stats
 
-- **Total Certificates:** 10
+- **Total Certificates:** 11
 - **Professional Certifications:** 2
 - **Academic Achievements:** 2
 - **Competition Awards:** 1
 - **Workshops Completed:** 3
-- **Hackathon Wins:** 2
-- **Latest:** Red Hat System Administration I (February 2026)
+- **Hackathons:** 2
+- **Latest:** Deriv AI Hackathon 2026 (February 2026)
 
 ---
 
@@ -102,6 +102,17 @@
 
 **Skills Demonstrated:** AI Development, Innovation, Team Leadership, Problem Solving, Rapid Prototyping
 
+### Deriv AI Hackathon 2026
+**Organizer:** Deriv (powered by JomHack)
+**Event Period:** February 7-8 & 14-15, 2026
+**Location:** Cyberjaya
+
+- **Award:** Certificate of Participation
+- **Certificate:** [View PDF](./certificates/hackathons/2026-02-deriv-ai-hackathon.pdf)
+- **Description:** Participated in the Deriv AI Hackathon 2026, a two-weekend AI-focused hackathon organized by Deriv and powered by JomHack
+
+**Skills Demonstrated:** AI Development, FinTech, Problem Solving, Rapid Prototyping
+
 ---
 
 ## Workshops & Events
@@ -177,7 +188,8 @@ Certifications/
 │   │   └── 2026-01-apu-startup-vs-mnc.pdf
 │   └── hackathons/                    # Hackathon awards and completion
 │       ├── 2025-12-geco-break-into-ai-team.pdf
-│       └── 2025-12-geco-break-into-ai-individual.pdf
+│       ├── 2025-12-geco-break-into-ai-individual.pdf
+│       └── 2026-02-deriv-ai-hackathon.pdf
 ├── badges/                            # Digital badges and visual assets
 │   └── ericsson-5g-pioneers.png
 ├── metadata/                          # Structured certificate data
@@ -224,4 +236,4 @@ This repository serves as a professional portfolio of certifications, achievemen
 
 ---
 
-*Last Updated: February 4, 2026*
+*Last Updated: February 25, 2026*
