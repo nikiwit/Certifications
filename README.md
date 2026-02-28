@@ -4,7 +4,7 @@
 
 ## Quick Stats
 
-- **Total Certificates:** 11
+- **Total Certificates:** 12
 - **Professional Certifications:** 2
 - **Academic Achievements:** 2
 - **Competition Awards:** 1
@@ -107,8 +107,14 @@
 **Event Period:** February 7-8 & 14-15, 2026
 **Location:** Cyberjaya
 
+#### Outstanding Innovation Award
+- **Award:** Certificate of Recognition — Outstanding Innovation
+- **Certificate:** [View Certificate](./certificates/hackathons/2026-02-deriv-ai-hackathon-recognition.pdf)
+- **Description:** Recognized for outstanding innovation in the Deriv AI Hackathon Challenge
+
+#### Participation
 - **Award:** Certificate of Participation
-- **Certificate:** [View PDF](./certificates/hackathons/2026-02-deriv-ai-hackathon.pdf)
+- **Certificate:** [View Certificate](./certificates/hackathons/2026-02-deriv-ai-hackathon.pdf)
 - **Description:** Participated in the Deriv AI Hackathon 2026, a two-weekend AI-focused hackathon organized by Deriv and powered by JomHack
 
 **Skills Demonstrated:** AI Development, FinTech, Problem Solving, Rapid Prototyping
@@ -189,7 +195,8 @@ Certifications/
 │   └── hackathons/                    # Hackathon awards and completion
 │       ├── 2025-12-geco-break-into-ai-team.pdf
 │       ├── 2025-12-geco-break-into-ai-individual.pdf
-│       └── 2026-02-deriv-ai-hackathon.pdf
+│       ├── 2026-02-deriv-ai-hackathon.pdf
+│       └── 2026-02-deriv-ai-hackathon-recognition.pdf
 ├── badges/                            # Digital badges and visual assets
 │   └── ericsson-5g-pioneers.png
 ├── metadata/                          # Structured certificate data
