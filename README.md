@@ -4,13 +4,13 @@
 
 ## Quick Stats
 
-- **Total Certificates:** 12
+- **Total Certificates:** 13
 - **Professional Certifications:** 2
 - **Academic Achievements:** 2
 - **Competition Awards:** 1
-- **Workshops Completed:** 3
-- **Hackathons:** 2
-- **Latest:** Deriv AI Hackathon 2026 (February 2026)
+- **Workshops Completed:** 4
+- **Hackathons:** 3
+- **Latest:** Bite-Sized Workshop: Moment of Truth in Marketing (March 2026)
 
 ---
 
@@ -138,6 +138,14 @@
 - **Description:** Attended speaker series event featuring insights on career paths, comparing experiences in startups versus multinational corporations
 - **Insights Gained:** Career Development, Entrepreneurship, Corporate Culture
 
+### Bite-Sized Workshop: Uncovering the 'Moment of Truth' in Marketing
+
+- **Organizer:** enterprise@APU
+- **Date:** March 16, 2026
+- **Certificate:** [View PDF](./certificates/workshops/2026-03-apu-moment-of-truth-marketing.pdf)
+- **Description:** Attended workshop on uncovering the 'Moment of Truth' in marketing, exploring key consumer decision-making touchpoints
+- **Topics Covered:** Marketing Strategy, Consumer Behaviour, Brand Touchpoints
+
 ---
 
 ## Skills & Expertise
@@ -191,7 +199,8 @@ Certifications/
 │   ├── workshops/                     # Workshop and event participation
 │   │   ├── 2025-01-aisg-ai-for-good.pdf
 │   │   ├── 2025-04-apu-xai-workshop.pdf
-│   │   └── 2026-01-apu-startup-vs-mnc.pdf
+│   │   ├── 2026-01-apu-startup-vs-mnc.pdf
+│   │   └── 2026-03-apu-moment-of-truth-marketing.pdf
 │   └── hackathons/                    # Hackathon awards and completion
 │       ├── 2025-12-geco-break-into-ai-team.pdf
 │       ├── 2025-12-geco-break-into-ai-individual.pdf
@@ -243,4 +252,4 @@ This repository serves as a professional portfolio of certifications, achievemen
 
 ---
 
-*Last Updated: February 25, 2026*
+*Last Updated: March 26, 2026*
