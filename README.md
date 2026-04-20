@@ -4,17 +4,33 @@
 
 ## Quick Stats
 
-- **Total Certificates:** 13
-- **Professional Certifications:** 2
+- **Total Certificates:** 14
+- **Professional Certifications:** 3
 - **Academic Achievements:** 2
 - **Competition Awards:** 1
 - **Workshops Completed:** 4
 - **Hackathons:** 3
-- **Latest:** Bite-Sized Workshop: Moment of Truth in Marketing (March 2026)
+- **Latest:** Red Hat System Administration II (April 2026)
 
 ---
 
 ## Professional Certifications & Training
+
+### Red Hat System Administration II
+
+- **Provider:** Red Hat
+- **Course:** RH134 - Red Hat System Administration II Ver. 10
+- **Date:** April 20, 2026
+- **Credit Hours:** 40
+- **Certificate:** [View PDF](./certificates/professional/2026-04-redhat-system-admin-ii.pdf)
+- **Verification:** [Credly Badge](https://www.credly.com/badges/1c7d76fd-b33a-4bdf-a3eb-76731000d8f6)
+- **Skills Acquired:**
+  - Advanced Storage Management
+  - SELinux Security
+  - Shell Scripting & Automation
+  - Network Services Configuration
+  - System Troubleshooting & Recovery
+  - Containers with Podman
 
 ### Red Hat System Administration I
 - **Provider:** Red Hat
@@ -189,8 +205,9 @@ Certifications/
 ├── README.md                          # This file - comprehensive documentation
 ├── certificates/                      # All certificates organized by category
 │   ├── professional/                  # Industry certifications and training
+│   │   ├── 2024-09-ericsson-5g-pioneers.png
 │   │   ├── 2026-02-redhat-system-admin-i.pdf
-│   │   └── 2024-09-ericsson-5g-pioneers.png
+│   │   └── 2026-04-redhat-system-admin-ii.pdf
 │   ├── academic/                      # University achievements and recognition
 │   │   ├── 2024-apu-vice-chancellor-list.pdf
 │   │   └── 2025-11-apu-sara-commendation.pdf
@@ -252,4 +269,4 @@ This repository serves as a professional portfolio of certifications, achievemen
 
 ---
 
-*Last Updated: March 26, 2026*
+*Last Updated: April 20, 2026*
