@@ -118,21 +118,31 @@
       "filepath": "./certificates/hackathons/2025-12-geco-break-into-ai-individual.pdf",
       "skills": ["AI Development", "Hackathon", "Problem Solving"],
       "description": "Individual completion certificate for Break into AI hackathon"
+    },
+    {
+      "id": "apu-agentic-rag-kag-2026",
+      "title": "Agentic RAG vs KAG Workshop",
+      "issuer": "APU AI Club (APUAIC)",
+      "category": "workshops",
+      "date": "2026-06-25",
+      "filepath": "./certificates/workshops/2026-06-apu-aic-agentic-rag-vs-kag-workshop.png",
+      "skills": ["Agentic RAG", "Knowledge-Augmented Generation", "Retrieval-Augmented Generation", "Large Language Models"],
+      "description": "Participation in workshop comparing Agentic RAG with Knowledge-Augmented Generation (KAG)"
     }
   ],
   "summary": {
-    "totalCertificates": 10,
+    "totalCertificates": 11,
     "byCategory": {
       "professional": 2,
       "academic": 2,
       "competitions": 1,
-      "workshops": 3,
+      "workshops": 4,
       "hackathons": 2
     },
-    "latestUpdate": "2026-02-04",
+    "latestUpdate": "2026-06-26",
     "latestCertificate": {
-      "title": "Red Hat System Administration I",
-      "date": "2026-02-03"
+      "title": "Agentic RAG vs KAG Workshop",
+      "date": "2026-06-25"
     }
   },
   "skills": {

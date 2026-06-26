@@ -4,13 +4,13 @@
 
 ## Quick Stats
 
-- **Total Certificates:** 14
+- **Total Certificates:** 15
 - **Professional Certifications:** 3
 - **Academic Achievements:** 2
 - **Competition Awards:** 1
-- **Workshops Completed:** 4
+- **Workshops Completed:** 5
 - **Hackathons:** 3
-- **Latest:** Red Hat System Administration II (April 2026)
+- **Latest:** Agentic RAG vs KAG Workshop (June 2026)
 
 ---
 
@@ -161,6 +161,14 @@
 - **Certificate:** [View PDF](./certificates/workshops/2026-03-apu-moment-of-truth-marketing.pdf)
 - **Description:** Attended workshop on uncovering the 'Moment of Truth' in marketing, exploring key consumer decision-making touchpoints
 - **Topics Covered:** Marketing Strategy, Consumer Behaviour, Brand Touchpoints
+
+### Agentic RAG vs KAG Workshop
+
+- **Organizer:** APU AI Club (APUAIC)
+- **Date:** June 25, 2026
+- **Certificate:** [View PNG](./certificates/workshops/2026-06-apu-aic-agentic-rag-vs-kag-workshop.png)
+- **Description:** Certificate of participation in workshop comparing Agentic Retrieval-Augmented Generation (RAG) with Knowledge-Augmented Generation (KAG)
+- **Topics Covered:** Agentic RAG, Knowledge-Augmented Generation, Retrieval-Augmented Generation, Large Language Models
 
 ---
 
