@@ -1,17 +1,26 @@
 {
   "certificates": [
     {
-      "id": "redhat-sysadmin-2026",
-      "title": "Red Hat System Administration I",
-      "issuer": "Red Hat",
-      "category": "professional",
-      "date": "2026-02-03",
-      "creditHours": 40,
-      "course": "RH124 - Red Hat System Administration I Ver. 9.3",
-      "verificationUrl": "https://www.credly.com/badges/2633b3c9-af0a-4a6f-8d7f-c65f60d5c045",
-      "filepath": "./certificates/professional/2026-02-redhat-system-admin-i.pdf",
-      "skills": ["Linux", "System Administration", "RHEL", "DevOps", "Command Line"],
-      "description": "Comprehensive training in Red Hat Enterprise Linux 9.3 system administration"
+      "id": "waterloo-ccc-2024",
+      "title": "Canadian Computing Competition - Junior Division",
+      "issuer": "University of Waterloo - Centre for Education in Mathematics and Computing",
+      "category": "competitions",
+      "date": "2024-02",
+      "achievement": "Certificate of Distinction (Top 25%)",
+      "filepath": "./certificates/competitions/2024-02-waterloo-ccc-junior.pdf",
+      "skills": ["Algorithms", "Problem Solving", "Competitive Programming", "Data Structures"],
+      "description": "Top 25% distinction in the Canadian Computing Competition Junior Division"
+    },
+    {
+      "id": "apu-vice-chancellor-2024",
+      "title": "Vice Chancellor's List",
+      "issuer": "Asia Pacific University (APU)",
+      "category": "academic",
+      "date": "2024",
+      "academicYear": "2024/2025",
+      "filepath": "./certificates/academic/2024-apu-vice-chancellor-list.pdf",
+      "achievement": "Excellent Academic Achievement",
+      "description": "Recognition for outstanding academic performance"
     },
     {
       "id": "ericsson-5g-2024",
@@ -36,15 +45,14 @@
       "description": "Workshop on AI applications for social good and responsible AI development"
     },
     {
-      "id": "apu-vice-chancellor-2024",
-      "title": "Vice Chancellor's List",
-      "issuer": "Asia Pacific University (APU)",
-      "category": "academic",
-      "date": "2024",
-      "academicYear": "2024/2025",
-      "filepath": "./certificates/academic/2024-apu-vice-chancellor-list.pdf",
-      "achievement": "Excellent Academic Achievement",
-      "description": "Recognition for outstanding academic performance"
+      "id": "apu-xai-workshop-2025",
+      "title": "XAI (Explainable AI) Workshop",
+      "issuer": "APU AI Club (APUAIC)",
+      "category": "workshops",
+      "date": "2025-04-11",
+      "filepath": "./certificates/workshops/2025-04-apu-xai-workshop.pdf",
+      "skills": ["Explainable AI", "AI Transparency", "Model Interpretability"],
+      "description": "Participation in workshop on explainable AI and model transparency"
     },
     {
       "id": "apu-sara-commendation-2025",
@@ -61,38 +69,6 @@
       },
       "skills": ["Mobile Development", "AI Integration", "Team Collaboration", "Project Management"],
       "description": "Commendation letter for contributions to AP SARA student assistance application"
-    },
-    {
-      "id": "waterloo-ccc-2024",
-      "title": "Canadian Computing Competition - Junior Division",
-      "issuer": "University of Waterloo - Centre for Education in Mathematics and Computing",
-      "category": "competitions",
-      "date": "2024-02",
-      "achievement": "Certificate of Distinction (Top 25%)",
-      "filepath": "./certificates/competitions/2024-02-waterloo-ccc-junior.pdf",
-      "skills": ["Algorithms", "Problem Solving", "Competitive Programming", "Data Structures"],
-      "description": "Top 25% distinction in the Canadian Computing Competition Junior Division"
-    },
-    {
-      "id": "apu-xai-workshop-2025",
-      "title": "XAI (Explainable AI) Workshop",
-      "issuer": "APU AI Club (APUAIC)",
-      "category": "workshops",
-      "date": "2025-04-11",
-      "filepath": "./certificates/workshops/2025-04-apu-xai-workshop.pdf",
-      "skills": ["Explainable AI", "AI Transparency", "Model Interpretability"],
-      "description": "Participation in workshop on explainable AI and model transparency"
-    },
-    {
-      "id": "apu-startup-mnc-2026",
-      "title": "Enterprise Speaker Series: Startup vs MNC",
-      "issuer": "enterprise@APU",
-      "category": "workshops",
-      "date": "2026-01-27",
-      "topic": "From Corporate to Startup",
-      "filepath": "./certificates/workshops/2026-01-apu-startup-vs-mnc.pdf",
-      "skills": ["Career Development", "Entrepreneurship", "Corporate Culture"],
-      "description": "Attendance at speaker series event discussing career paths in startups vs corporations"
     },
     {
       "id": "geco-hack-team-2025",
@@ -120,6 +96,79 @@
       "description": "Individual completion certificate for Break into AI hackathon"
     },
     {
+      "id": "apu-startup-mnc-2026",
+      "title": "Enterprise Speaker Series: Startup vs MNC",
+      "issuer": "enterprise@APU",
+      "category": "workshops",
+      "date": "2026-01-27",
+      "topic": "From Corporate to Startup",
+      "filepath": "./certificates/workshops/2026-01-apu-startup-vs-mnc.pdf",
+      "skills": ["Career Development", "Entrepreneurship", "Corporate Culture"],
+      "description": "Attendance at speaker series event discussing career paths in startups vs corporations"
+    },
+    {
+      "id": "redhat-sysadmin-i-2026",
+      "title": "Red Hat System Administration I",
+      "issuer": "Red Hat",
+      "category": "professional",
+      "date": "2026-02-03",
+      "creditHours": 40,
+      "course": "RH124 - Red Hat System Administration I Ver. 9.3",
+      "verificationUrl": "https://www.credly.com/badges/2633b3c9-af0a-4a6f-8d7f-c65f60d5c045",
+      "filepath": "./certificates/professional/2026-02-redhat-system-admin-i.pdf",
+      "skills": ["Linux", "System Administration", "RHEL", "DevOps", "Command Line"],
+      "description": "Comprehensive training in Red Hat Enterprise Linux 9.3 system administration"
+    },
+    {
+      "id": "deriv-hack-recognition-2026",
+      "title": "Deriv AI Hackathon 2026 - Outstanding Innovation",
+      "issuer": "Deriv (powered by JomHack)",
+      "category": "hackathons",
+      "date": "2026-02-15",
+      "eventPeriod": "February 7-8 & 14-15, 2026",
+      "location": "Cyberjaya",
+      "achievement": "Certificate of Recognition - Outstanding Innovation",
+      "filepath": "./certificates/hackathons/2026-02-deriv-ai-hackathon-recognition.pdf",
+      "skills": ["AI Development", "FinTech", "Problem Solving", "Rapid Prototyping"],
+      "description": "Recognized for outstanding innovation in the Deriv AI Hackathon Challenge"
+    },
+    {
+      "id": "deriv-hack-participation-2026",
+      "title": "Deriv AI Hackathon 2026 - Participation",
+      "issuer": "Deriv (powered by JomHack)",
+      "category": "hackathons",
+      "date": "2026-02-15",
+      "eventPeriod": "February 7-8 & 14-15, 2026",
+      "location": "Cyberjaya",
+      "achievement": "Certificate of Participation",
+      "filepath": "./certificates/hackathons/2026-02-deriv-ai-hackathon.pdf",
+      "skills": ["AI Development", "FinTech", "Problem Solving", "Rapid Prototyping"],
+      "description": "Participation in the Deriv AI Hackathon 2026, a two-weekend AI-focused hackathon"
+    },
+    {
+      "id": "apu-moment-of-truth-2026",
+      "title": "Bite-Sized Workshop: Uncovering the 'Moment of Truth' in Marketing",
+      "issuer": "enterprise@APU",
+      "category": "workshops",
+      "date": "2026-03-16",
+      "filepath": "./certificates/workshops/2026-03-apu-moment-of-truth-marketing.pdf",
+      "skills": ["Marketing Strategy", "Consumer Behaviour", "Brand Touchpoints"],
+      "description": "Workshop on uncovering the 'Moment of Truth' in marketing and consumer decision-making touchpoints"
+    },
+    {
+      "id": "redhat-sysadmin-ii-2026",
+      "title": "Red Hat System Administration II",
+      "issuer": "Red Hat",
+      "category": "professional",
+      "date": "2026-04-20",
+      "creditHours": 40,
+      "course": "RH134 - Red Hat System Administration II Ver. 10",
+      "verificationUrl": "https://www.credly.com/badges/1c7d76fd-b33a-4bdf-a3eb-76731000d8f6",
+      "filepath": "./certificates/professional/2026-04-redhat-system-admin-ii.pdf",
+      "skills": ["Advanced Storage Management", "SELinux Security", "Shell Scripting & Automation", "Network Services Configuration", "System Troubleshooting & Recovery", "Containers with Podman"],
+      "description": "Advanced training in Red Hat Enterprise Linux system administration, automation, and containers"
+    },
+    {
       "id": "apu-agentic-rag-kag-2026",
       "title": "Agentic RAG vs KAG Workshop",
       "issuer": "APU AI Club (APUAIC)",
@@ -131,13 +180,13 @@
     }
   ],
   "summary": {
-    "totalCertificates": 11,
+    "totalCertificates": 15,
     "byCategory": {
-      "professional": 2,
+      "professional": 3,
       "academic": 2,
       "competitions": 1,
-      "workshops": 4,
-      "hackathons": 2
+      "workshops": 5,
+      "hackathons": 4
     },
     "latestUpdate": "2026-06-26",
     "latestCertificate": {
@@ -156,7 +205,11 @@
       "Algorithms",
       "Data Structures",
       "Mobile Development",
-      "Explainable AI"
+      "Explainable AI",
+      "Agentic RAG",
+      "Retrieval-Augmented Generation",
+      "FinTech",
+      "Containers with Podman"
     ],
     "soft": [
       "Project Management",
@@ -164,7 +217,8 @@
       "Team Collaboration",
       "Problem Solving",
       "Innovation",
-      "Career Development"
+      "Career Development",
+      "Rapid Prototyping"
     ]
   }
 }

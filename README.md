@@ -9,7 +9,7 @@
 - **Academic Achievements:** 2
 - **Competition Awards:** 1
 - **Workshops Completed:** 5
-- **Hackathons:** 3
+- **Hackathons:** 4
 - **Latest:** Agentic RAG vs KAG Workshop (June 2026)
 
 ---
