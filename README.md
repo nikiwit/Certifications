@@ -4,13 +4,13 @@
 
 ## Quick Stats
 
-- **Total Certificates:** 15
+- **Total Certificates:** 16
 - **Professional Certifications:** 3
-- **Academic Achievements:** 2
+- **Academic Achievements:** 3
 - **Competition Awards:** 1
 - **Workshops Completed:** 5
 - **Hackathons:** 4
-- **Latest:** Agentic RAG vs KAG Workshop (June 2026)
+- **Latest:** Vice Chancellor's List 2025/2026 (September 2026)
 
 ---
 
@@ -68,10 +68,11 @@
 
 ## Academic Achievements
 
-### Vice Chancellor's List
+### Vice Chancellor's List (2024/2025)
 - **Institution:** Asia Pacific University (APU)
 - **Academic Year:** 2024/2025
 - **Certificate:** [View PDF](./certificates/academic/2024-apu-vice-chancellor-list.pdf)
+- **Letter:** [View Congratulatory Letter](./certificates/academic/2025-12-apu-vice-chancellor-list-letter.pdf) (December 24, 2025)
 - **Recognition:** Excellent Academic Achievement
 - **Description:** Recognition for outstanding academic performance and maintaining high standards throughout the academic year
 
@@ -84,6 +85,17 @@
 - **Faculty Reference:** Prof. Ir. Eur. Ing. Ts. Dr. Vinesh Thiruchelvam (dr.vinesh@apu.edu.my)
 - **Description:** Formal commendation for contributions to the development of AP SARA, a student assistance mobile application integrating AI capabilities
 - **Skills Demonstrated:** Mobile Application Development, AI Integration, Team Collaboration, Project Management
+
+### Vice Chancellor's List (2025/2026)
+
+- **Institution:** Asia Pacific University (APU)
+- **Academic Year:** 2025/2026
+- **Date:** September 25, 2026
+- **Certificate:** [View PDF](./certificates/academic/2026-09-apu-vice-chancellor-list.pdf)
+- **Letter:** [View Congratulatory Letter](./certificates/academic/2026-10-apu-vice-chancellor-list-letter.pdf) (October 5, 2026)
+- **Verification:** [Blockchain Certificate](https://apu.blockchaincert.my/certificate/0x16e61a018b86daec46d213da7a194fd08406ea88c44feb287f9ded2b832dcd8d)
+- **Recognition:** Excellent Academic Achievement
+- **Description:** Second consecutive placement on the Vice Chancellor's List for Academic Excellence, reserved for APU's highest-achieving students
 
 ---
 
@@ -196,6 +208,7 @@ Based on completed certifications and training:
 Most certificates include verification methods:
 
 - **Red Hat System Administration I:** Verifiable via [Credly](https://www.credly.com/badges/2633b3c9-af0a-4a6f-8d7f-c65f60d5c045) with digital badge
+- **Vice Chancellor's List 2025/2026:** Verifiable on-chain via [APU Blockchain Cert](https://apu.blockchaincert.my/certificate/0x16e61a018b86daec46d213da7a194fd08406ea88c44feb287f9ded2b832dcd8d)
 - **University Certificates (APU):** Contact issuers directly for verification
   - AP SARA Project: Prof. Ir. Eur. Ing. Ts. Dr. Vinesh Thiruchelvam (dr.vinesh@apu.edu.my)
 - **Competition Certificates:** Official records maintained by issuing organizations
@@ -218,14 +231,18 @@ Certifications/
 │   │   └── 2026-04-redhat-system-admin-ii.pdf
 │   ├── academic/                      # University achievements and recognition
 │   │   ├── 2024-apu-vice-chancellor-list.pdf
-│   │   └── 2025-11-apu-sara-commendation.pdf
+│   │   ├── 2025-12-apu-vice-chancellor-list-letter.pdf
+│   │   ├── 2025-11-apu-sara-commendation.pdf
+│   │   ├── 2026-09-apu-vice-chancellor-list.pdf
+│   │   └── 2026-10-apu-vice-chancellor-list-letter.pdf
 │   ├── competitions/                  # Competition awards and achievements
 │   │   └── 2024-02-waterloo-ccc-junior.pdf
 │   ├── workshops/                     # Workshop and event participation
 │   │   ├── 2025-01-aisg-ai-for-good.pdf
 │   │   ├── 2025-04-apu-xai-workshop.pdf
 │   │   ├── 2026-01-apu-startup-vs-mnc.pdf
-│   │   └── 2026-03-apu-moment-of-truth-marketing.pdf
+│   │   ├── 2026-03-apu-moment-of-truth-marketing.pdf
+│   │   └── 2026-06-apu-aic-agentic-rag-vs-kag-workshop.png
 │   └── hackathons/                    # Hackathon awards and completion
 │       ├── 2025-12-geco-break-into-ai-team.pdf
 │       ├── 2025-12-geco-break-into-ai-individual.pdf
@@ -277,4 +294,4 @@ This repository serves as a professional portfolio of certifications, achievemen
 
 ---
 
-*Last Updated: April 20, 2026*
+*Last Updated: October 5, 2026*

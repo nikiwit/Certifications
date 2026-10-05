@@ -19,6 +19,7 @@
       "date": "2024",
       "academicYear": "2024/2025",
       "filepath": "./certificates/academic/2024-apu-vice-chancellor-list.pdf",
+      "letterFilepath": "./certificates/academic/2025-12-apu-vice-chancellor-list-letter.pdf",
       "achievement": "Excellent Academic Achievement",
       "description": "Recognition for outstanding academic performance"
     },
@@ -178,20 +179,34 @@
       "skills": ["Agentic RAG", "Knowledge-Augmented Generation", "Retrieval-Augmented Generation", "Large Language Models"],
       "description": "Participation in workshop comparing Agentic RAG with Knowledge-Augmented Generation (KAG)"
     }
+,
+    {
+      "id": "apu-vice-chancellor-2026",
+      "title": "Vice Chancellor's List",
+      "issuer": "Asia Pacific University (APU)",
+      "category": "academic",
+      "date": "2026-09-25",
+      "academicYear": "2025/2026",
+      "filepath": "./certificates/academic/2026-09-apu-vice-chancellor-list.pdf",
+      "letterFilepath": "./certificates/academic/2026-10-apu-vice-chancellor-list-letter.pdf",
+      "verificationUrl": "https://apu.blockchaincert.my/certificate/0x16e61a018b86daec46d213da7a194fd08406ea88c44feb287f9ded2b832dcd8d",
+      "achievement": "Excellent Academic Achievement",
+      "description": "Second consecutive placement on the Vice Chancellor's List for academic excellence"
+    }
   ],
   "summary": {
-    "totalCertificates": 15,
+    "totalCertificates": 16,
     "byCategory": {
       "professional": 3,
-      "academic": 2,
+      "academic": 3,
       "competitions": 1,
       "workshops": 5,
       "hackathons": 4
     },
-    "latestUpdate": "2026-06-26",
+    "latestUpdate": "2026-10-05",
     "latestCertificate": {
-      "title": "Agentic RAG vs KAG Workshop",
-      "date": "2026-06-25"
+      "title": "Vice Chancellor's List (2025/2026)",
+      "date": "2026-09-25"
     }
   },
   "skills": {
